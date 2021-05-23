@@ -18,7 +18,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.github.CRZA5:ktorcsrf:master-SNAPSHOT'
+  implementation 'com.github.CRZA5:ktorcsrf:-SNAPSHOT'
 }
 ```
 
@@ -31,7 +31,7 @@ repositories {
 }
 
 dependencies {
-  implementation("com.github.CRZA5:ktorcsrf:master-SNAPSHOT")
+  implementation("com.github.CRZA5:ktorcsrf:-SNAPSHOT")
 }
 ```
 
@@ -52,7 +52,7 @@ dependencies {
 <dependency>
   <groupId>com.github.CRZA5</groupId>
   <artifactId>ktorcsrf</artifactId>
-  <version>master-SNAPSHOT</version>
+  <version>-SNAPSHOT</version>
 </dependency>
 ```
 
